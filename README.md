@@ -23,5 +23,6 @@ gulp
 ## Setup
 
 ```
-npm install --save-dev gulp svgmin
+npm init
+npm install --save-dev gulp gulp-svgmin
 ```
